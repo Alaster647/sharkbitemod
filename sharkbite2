@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/Alaster647/sharkbitemod/blob/main/sharkbite2')))()
 local Window = OrionLib:MakeWindow({Name = "Sharkbite 2", HidePremium = false, IntroEnabled = false, ConfigFolder = "SB2Mod"})
 
 local BoatTab = Window:MakeTab({
